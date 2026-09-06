@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Vikas 👋
 
 Jr. DevOps Engineer | RHCSA & AWS Solutions Architect Certified
 
@@ -9,14 +9,14 @@ Linux (RHEL/Ubuntu) · AWS (EC2, VPC, IAM) · SSH Hardening · Firewalls (UFW/ip
 
 ## 📂 Featured Projects
 ### [Linux Server Hardening on AWS EC2](link-to-repo)
-Hardened a Linux EC2 instance: SSH key-only auth, custom port, UFW firewall, Fail2ban, automatic security updates. [Full write-up →](link)
+Hardened a Linux EC2 instance: SSH key-only auth, custom port, UFW firewall, Fail2ban, automatic security updates. [Full write-up →](https://github.com/vikasdevda5276/linux-server-hardening.git)
 
 ### [App Deployment with Nginx + SSL](link-to-repo)
-Deployed a web app on EC2 with Nginx reverse proxy and free SSL via Let's Encrypt. [Full write-up →](link)
+Deployed a web app on EC2 with Nginx reverse proxy and free SSL via Let's Encrypt. [Full write-up →](https://github.com/vikasdevda5276/aws-app-deployment-ssl.git)
 
 ## 📜 Certifications
 - Red Hat Certified System Administrator (RHCSA)
 - AWS Certified Solutions Architect
 
 ## 📫 Reach me
-[Upwork profile link] · [LinkedIn] · [Email]
+[Upwork profile link] · [https://www.linkedin.com/in/vikas-devda-44a768254?utm_source=share_via&utm_content=profile&utm_medium=member_android] · [vikasdevda5276@gmail.com]
