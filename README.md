@@ -19,4 +19,4 @@ Deployed a web app on EC2 with Nginx reverse proxy and free SSL via Let's Encryp
 - AWS Certified Solutions Architect
 
 ## 📫 Reach me
-[Upwork profile link] · [https://www.linkedin.com/in/vikas-devda-44a768254?utm_source=share_via&utm_content=profile&utm_medium=member_android] · [vikasdevda5276@gmail.com]
+[Upwork](your-upwork-profile-link) · [LinkedIn](https://www.linkedin.com/in/vikas-devda-44a768254) · [Email](mailto:vikasdevda5276@gmail.com)
