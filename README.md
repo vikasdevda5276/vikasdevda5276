@@ -5,7 +5,7 @@ Jr. DevOps Engineer | RHCSA & AWS Solutions Architect Certified
 I help teams and clients set up, secure, and troubleshoot Linux servers and AWS infrastructure. Background in desktop support gives me a strong edge in fast, clear troubleshooting.
 
 ## 🔧 Skills
-Linux (RHEL/Ubuntu) · AWS (EC2, VPC, IAM) · SSH Hardening · Firewalls (UFW/iptables) · Fail2ban · Nginx · Bash · Terraform (learning) · CI/CD (GitHub Actions)
+Linux (RHEL/Ubuntu) · AWS (EC2, VPC, IAM) · SSH Hardening · Firewalls (UFW/iptables) · Fail2ban · Nginx · SSL/TLS (Let's Encrypt) · Docker · Bash · Terraform · CI/CD (GitHub Actions) · Prometheus & Grafana · WordPress Hosting · Server Monitoring & Alerting
 
 ## 📂 Featured Projects
 ### [Linux Server Hardening on AWS EC2](https://github.com/vikasdevda5276/linux-server-hardening)
