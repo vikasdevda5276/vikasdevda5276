@@ -8,11 +8,11 @@ I help teams and clients set up, secure, and troubleshoot Linux servers and AWS 
 Linux (RHEL/Ubuntu) · AWS (EC2, VPC, IAM) · SSH Hardening · Firewalls (UFW/iptables) · Fail2ban · Nginx · Bash · Terraform (learning) · CI/CD (GitHub Actions)
 
 ## 📂 Featured Projects
-### [Linux Server Hardening on AWS EC2](https://github.com/vikasdevda5276/linux-server-hardening.git)
-Hardened a Linux EC2 instance: SSH key-only auth, custom port, UFW firewall, Fail2ban, automatic security updates. [Full write-up →](https://github.com/vikasdevda5276/linux-server-hardening.git)
+### [Linux Server Hardening on AWS EC2](https://github.com/vikasdevda5276/linux-server-hardening)
+Hardened a Linux EC2 instance: SSH key-only auth, custom port, UFW firewall, Fail2ban, automatic security updates.
 
-### [App Deployment with Nginx + SSL](link-to-repo)
-Deployed a web app on EC2 with Nginx reverse proxy and free SSL via Let's Encrypt. [Full write-up →](https://github.com/vikasdevda5276/aws-app-deployment-ssl.git)
+### [App Deployment with Nginx + SSL](https://github.com/vikasdevda5276/aws-app-deployment-ssl)
+Deployed a web app on EC2 with Nginx reverse proxy and free SSL via Let's Encrypt.
 
 ### [AWS Enterprise WordPress Hosting](https://github.com/vikasdevda5276/aws-enterprise-wordpress-hosting)
 Set up a production-grade WordPress hosting environment on AWS, covering scalable infrastructure, security, and performance best practices for enterprise use.
