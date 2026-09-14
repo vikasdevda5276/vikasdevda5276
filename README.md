@@ -28,4 +28,4 @@ Implemented a monitoring and alerting stack using Prometheus and Grafana to trac
 - AWS Certified Solutions Architect
 
 ## 📫 Reach me
-[Upwork](your-upwork-profile-link) · [LinkedIn](https://www.linkedin.com/in/vikas-devda-44a768254) · [Email](mailto:vikasdevda5276@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vikas-devda-44a768254) · [Email](mailto:vikasdevda5276@gmail.com)
